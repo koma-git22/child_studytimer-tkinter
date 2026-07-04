@@ -1,3 +1,10 @@
+# =====================================================================
+# 親子スケジュール応援アプリ (あさのじゅんび)
+# Copyright (c) 2026 [あなたの名前、またはGitHubのアカウント名]
+# This software is released under the MIT License.
+# http://opensource.org
+# =====================================================================
+
 import tkinter as tk
 import time
 import threading
