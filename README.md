@@ -4,11 +4,9 @@
 
 <!-- 📸 アプリのスクリーンショット画像（リポジトリ内に画像を保存してリンクさせてください） -->
 <p align="center">
-  <img src="images/screenshot.png" alt="アプリのスクリーンショット" width="400">
+  <img src="<img width="370" height="594" alt="Image" src="https://github.com/user-attachments/assets/350198ac-a67e-43a9-961d-f539dd4bfe7d" />" alt="アプリのスクリーンショット" width="400">
 </p>
 
-![Python Version](https://shields.io)
-![License](https://shields.io)
 
 ---
 
