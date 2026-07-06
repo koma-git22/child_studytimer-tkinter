@@ -4,7 +4,7 @@
 
 <!-- 📸 アプリのスクリーンショット画像（リポジトリ内に画像を保存してリンクさせてください） -->
 <p align="center">
-  <img src="<img width="370" height="594" alt="Image" src="https://github.com/user-attachments/assets/350198ac-a67e-43a9-961d-f539dd4bfe7d" />" alt="アプリのスクリーンショット" width="400">
+  <img src="https://github.com/user-attachments/assets/56245908-63c2-4dd1-b93d-26cf05a40ab0" alt="アプリのスクリーンショット" width="370" height="594">
 </p>
 
 
