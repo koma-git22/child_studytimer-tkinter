@@ -63,7 +63,7 @@ class ScheduleApp:
         )
         self.progress_canvas.pack(pady=6)
 
-        # ご敦羊スタンプ（初期状態は非表示）
+        # ご褒美スタンプ（初期状態は非表示）
         self.stamp_label = tk.Label(
             root, text="", font=("Helvetica", 40), fg="#FFD700", bg="#FFF0F0", height=0
         )
